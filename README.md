@@ -24,3 +24,5 @@ $ npx del-cli 'results/*'
 ```
 
 Note: if there are no files matching the pattern, `del-cli` exits with code 0
+
+For more similar tricks, see my [NPM tips and tricks](https://glebbahmutov.com/blog/npm-tips-and-tricks/) blog post.
