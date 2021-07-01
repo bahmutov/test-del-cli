@@ -1,8 +1,9 @@
 {
   "name": "test-del-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cross-platform CLI example for deleting files and folders",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "delete": "del-cli 'results/*'"
